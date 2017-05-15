@@ -1,0 +1,163 @@
+shop|Can I see your item
+shop|What do you have for sale
+shop|Show me what you have for sale
+shop|Let me see what you're selling
+shop|Let me see what youre selling
+shop|Show me what you have
+shop|Can you show me what you have for sale
+shop|Let me see what you have for sale
+shop|Please let me see what you have for sale
+shop|What are you selling, relation
+shop|What's on the table
+shop|Let me see what you have
+shop|Let me see what you've got
+shop|Show me your wares
+shop|Let me see your items
+shop|Let me see your inventory
+shop|Show me what you've got
+shop|What are you selling
+shop|Let me see your stuff
+shop|Let me see if you have what I need
+shop|What do you have in stock
+shop|What item do you have
+shop|Those are some nice wares you have
+shop|What do you sell
+shop|Show me your items
+shop|Can I see your inventory
+shop|What do you have in your inventory
+shop|Can I see your shop
+shop|Can I see your store
+shop|Can I see your wares
+shop|What do you have for sale
+shop|Can I buy some stuff from you
+shop|What do you have on stock
+buy|I'd like one of those item.
+buy|Give me one of those item.
+buy|Give me an item.
+buy|Give me a item.
+buy|I want to buy a item
+buy|Please sell me a item
+buy|Yeah so I want this item
+buy|I want to purchase item
+buy|I'd also like to purchase a item
+buy|Give me a item, item, and pair of item
+buy|Sell me your adjective item
+buy|I want a adjective item
+buy|Give me the item
+buy|Okay so I want an item
+buy|Hey can I also get an item
+buy|Also just the one item if you will
+buy|Just the one item please
+buy|Please just give me the item
+buy|I'd like the item
+buy|Give me one of the item
+buy|I'd like one of your adjective item
+buy|I want to buy a adjective, adjective item
+buy|Please give me a item
+buy|Please give me one of your item
+buy|Sell me a item
+buy|Can I buy an item
+buy|Can I get a few items
+buy|I'd like some items
+buy|If possible I'd like to buy the item
+buy|Thats a nice item, can I buy it
+buy|Ill take a item
+buy|Ill take some item
+buy|Let me buy some item
+undo|Oops I didn't mean to do that
+undo|Trade me back that was an accident
+undo|Can I have my stuff back
+undo|You stole my stuff give it back
+undo|WTF give it back
+undo|WTF he took my stuff
+undo|Hey can I have my stuff back
+undo|He took money from me
+undo|Wow can I have my stuff back
+undo|Wow wtf
+undo|I just got scammed
+undo|You just took my money
+undo|Where'd my money go
+undo|where did my money go
+undo|Yo wtf
+undo|yo wth he just took my money
+undo|hey give that back
+undo|please undo the trade
+undo|please trade back
+undo|can you undo the trade
+undo|can you trade back
+undo|I want my money back
+undo|give me my money back now
+undo|how do I get my stuff back
+undo|can I get my stuff back
+undo|hey what the hell just happened
+undo|lmao he took my money
+undo|how do I get my stuff
+undo|can you return my stuff back
+undo|hey dude give that back
+undo|npc took my money
+undo|the npc took my item
+undo|name trade me back
+buy|hi can i plz buy abyssal scepter?
+undo|oopsie didn't mean to do that
+undo|i bought that by accident heh :confused:
+convo|weather's quite nice eh?
+convo|i'm so bored
+convo|tell me about wimbourne
+convo|do you have any quests?
+buy|do you have 1 sword for me?
+buy|do you have some boots i can buy?
+buy|can you give me one long red sword?
+buy|do you have a hat for me?
+shop|do you have any good sword laying around?
+shop|can i take a look at all your weapons?
+shop|can i take a look at your stuff?
+sell|i want to sell my 10 ores
+sell|i want to sell my boots
+sell|i'd like to sell you my boots
+sell|these boots worth a lot, but i want to sell them to you.
+sell|i want to sell you my boots and my chestplate
+sell|my helmet is for sale, and you're buying it.
+sell|take my logs
+sell|take my abyssal boots
+sell|how much can i get for these potions
+sell|i brought these from wimbourne, how much will you buy them for
+sell|this is silirad oak, how much are you gonna pay for it
+sell|im selling my boots, whats your offer
+sell|im selling my item whats your ofer
+sell|this items for sale whats your offer
+sell|what do you think this items worth
+sell|will you buy my item?
+sell|will you pay me 500 for these shoes?
+sell|i will sell you my ores
+sell|i hv sum ores you want to buy them?
+sell|how much will you pay for this armor?
+sell|will you buy this junk off me?
+sell|i have some junk i need to get rid off
+sell|i'd like to sell my everything in my inventory
+sell|i want to sell you all my stuff, how much can i get for it
+sell|i want to sell you my stuff
+sell|i want to get rid of my stuff
+sell|sell my inv.
+sell|sell my inventory.
+sell|trash this
+sell|trash this item
+sell|trash these items
+sell|trash this item
+sell|trash these items
+sell|trash item
+sell|trash my item
+gibberish|item item item item item
+convo| rosemary
+convo| is rosemary your daughter
+convo| tell me about your family
+convo|tell me about your past
+convo| where are you from
+convo|how did you get to where you are
+convo| how did you end up here
+convo| tell me about your daughter
+convo|is that your house?
+convo|is that your house?
+convo|where is your daughter?
+convo|where is rosemary?
+convo|is there anything i can help you with?
+convo|i miss rosemary

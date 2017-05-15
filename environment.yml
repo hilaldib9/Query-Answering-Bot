@@ -1,0 +1,45 @@
+name: AoAChatBot
+channels: !!python/tuple
+- defaults
+dependencies:
+- cloudpickle=0.2.2=py27_0
+- cycler=0.10.0=py27_0
+- icu=57.1=vc9_0
+- jpeg=8d=vc9_2
+- libpng=1.6.27=vc9_0
+- matplotlib=1.5.3=np111py27_1
+- mkl=11.3.3=1
+- numpy=1.11.2=py27_0
+- openssl=1.0.2j=vc9_0
+- pandas=0.19.2=np111py27_1
+- pip=9.0.1=py27_1
+- plac=0.9.6=py27_0
+- pyparsing=2.1.4=py27_0
+- pyqt=5.6.0=py27_1
+- python=2.7.13=0
+- python-dateutil=2.6.0=py27_0
+- pytz=2016.10=py27_0
+- qt=5.6.2=vc9_0
+- scikit-learn=0.18.1=np111py27_0
+- scipy=0.18.1=np111py27_0
+- setuptools=27.2.0=py27_1
+- sip=4.18=py27_0
+- six=1.10.0=py27_0
+- spacy::cymem=1.31.2=py27_vc9_0
+- spacy::murmurhash=0.26.4=py27_vc9_0
+- spacy::preshed=0.46.4=py27_vc9_0
+- spacy::semver=2.4.1=py27_0
+- spacy::spacy=0.101.0=py27_vc9_0
+- spacy::sputnik=0.9.3=py27_0
+- spacy::thinc=5.0.8=py27_vc9_0
+- tk=8.5.18=vc9_0
+- vs2008_runtime=9.00.30729.1=2
+- wheel=0.29.0=py27_0
+- zlib=1.2.8=vc9_3
+- pip:
+  - backports.ssl-match-hostname==3.5.0.1
+  - requests==2.12.4
+  - slackclient==1.0.4
+  - websocket-client==0.40.0
+prefix: C:\Users\owner\Anaconda3\envs\AoAChatBot
+
